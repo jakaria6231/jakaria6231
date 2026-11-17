@@ -72,11 +72,11 @@ I'm interested in understanding how systems work, identifying security weaknesse
 
 <div align="center">
 
-<img width="49%" src="./profile/stats.svg" alt="GitHub Statistics" />
+<img src="https://raw.githubusercontent.com/jakaria6231/jakaria6231/main/profile/stats.svg" width="49%" alt="GitHub Statistics" />
 
-<img width="49%" src="./profile/top-langs.svg" alt="Top Languages" />
+<img src="https://raw.githubusercontent.com/jakaria6231/jakaria6231/main/profile/top-langs.svg" width="49%" alt="Top Languages" />
 
-<img width="80%" src="https://streak-stats.demolab.com?user=jakaria6231&theme=chartreuse-dark&hide_border=true&background=000000&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=jakaria6231&theme=chartreuse-dark&hide_border=true&background=000000&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" width="80%" alt="GitHub Streak" />
 
 </div>
 
