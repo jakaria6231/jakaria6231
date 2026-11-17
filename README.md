@@ -69,7 +69,7 @@ I'm interested in understanding how systems work, identifying security weaknesse
 
 ## `github_statistics`
 
-<div align="center">
+<!-- <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jakaria6231&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=ffffff" />
 
@@ -77,7 +77,18 @@ I'm interested in understanding how systems work, identifying security weaknesse
 
 <img width="80%" src="https://streak-stats.demolab.com?user=jakaria6231&theme=chartreuse-dark&hide_border=true&background=000000&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" />
 
+</div> -->
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jakaria6231&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=ffffff" alt="GitHub Statistics" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakaria6231&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=ffffff" alt="Top Languages" />
+
+<img width="80%" src="https://streak-stats.demolab.com?user=jakaria6231&theme=chartreuse-dark&hide_border=true&background=000000&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="GitHub Streak" />
+
 </div>
+
 
 ---
 
