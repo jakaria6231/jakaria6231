@@ -87,7 +87,7 @@ I'm interested in understanding how systems work, identifying security weaknesse
 
 <div align="center">
 
-[![CyberShield](https://github-readme-stats.vercel.app/api/pin/?username=jakaria6231&repo=CyberShield&theme=chartreuse-dark&hide_border=true&bg_color=000000)](https://github.com/jakaria6231/CyberShield)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=jakaria6231&repo=jakaria6231.github.io&theme=chartreuse-dark&hide_border=true&bg_color=000000)](https://jakaria6231.github.io/)
 
 </div>
 
